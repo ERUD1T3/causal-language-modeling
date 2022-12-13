@@ -1,4 +1,4 @@
-# rap-poetry-nlp
+# Causal language modeling
 training a transformer-based language model to write poetry and rap lyrics.
 
 Noteworthy instructions
